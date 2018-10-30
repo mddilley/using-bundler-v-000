@@ -4,6 +4,6 @@ gem "sinatra"
 
 group :development do
 
-  gem 'pru'
+  gem 'pry'
 
 end
